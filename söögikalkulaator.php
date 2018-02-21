@@ -18,5 +18,5 @@ if (isset($_POST['arvuta'])){
     $hindOpilasele = $soodusHind - $opilaseToetus;
     echo 'Söögi hind õpilasele = '.$hindOpilasele.'<br />';
 }
-?>a
+?>
 
